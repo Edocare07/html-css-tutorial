@@ -1,0 +1,19 @@
+.titologrosso{
+    color: red;
+    font-size: 45pt;
+}
+h1{
+    color: red;
+    font-size: 30pt;
+}
+h2{
+    color:maroon;
+    font-size: 24pt;
+}
+p{
+    font-size: 17pt;
+}
+body{
+    border: groove 50pt;
+    background-image: url("sfondo.jpg");
+}

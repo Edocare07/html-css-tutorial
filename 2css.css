@@ -1,0 +1,16 @@
+p{
+    font-size: 17pt;
+}
+
+.titolocentrale{
+    font-size: 45pt;
+    color: red;
+}
+h1{
+    font-size: 30pt;
+    color: red;
+}
+body{
+    background-image: url("sfondo.jpg");
+    border: groove 50pt;
+}

@@ -1,0 +1,16 @@
+table{
+    font-size: 20pt;
+    background-color: aliceblue;
+}
+h1{
+    font-size: 90pt;
+    color: red;
+}
+h2{
+    font-size: 30pt;
+    color: red;
+}
+body{
+    border: groove yellow 50pt;
+    background-image: url("topolino.png");
+}

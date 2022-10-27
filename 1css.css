@@ -1,0 +1,14 @@
+p{
+    font-size: 17pt;
+}
+
+h1{
+    color: red;
+    font-size: 45pt;
+}
+
+body {
+    background-image: url("sfondo.jpg");
+    border: groove 50pt;
+   }
+
